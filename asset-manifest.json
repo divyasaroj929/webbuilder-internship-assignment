@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/webbuilder-internship-assignment/static/css/main.0ea38798.css",
-    "main.js": "/webbuilder-internship-assignment/static/js/main.16b1171b.js",
+    "main.css": "/webbuilder-internship-assignment/static/css/main.76721c32.css",
+    "main.js": "/webbuilder-internship-assignment/static/js/main.22686a9d.js",
     "static/media/itemimg.svg": "/webbuilder-internship-assignment/static/media/itemimg.11e955846dc4b8ab9c9d3e85b17dd8d9.svg",
     "static/media/IMAGE.svg": "/webbuilder-internship-assignment/static/media/IMAGE.115bb9a0227b91b12dc240f739adb146.svg",
     "static/media/cup.svg": "/webbuilder-internship-assignment/static/media/cup.3aba3329ae58136d0812dc028d2ef3e4.svg",
@@ -13,11 +13,11 @@
     "static/media/TopRelevant.svg": "/webbuilder-internship-assignment/static/media/TopRelevant.be67eccf5d9b528ff7ca522ba699b690.svg",
     "static/media/Vector.svg": "/webbuilder-internship-assignment/static/media/Vector.b2758ef8a1b8e76f1b7ea35982477c71.svg",
     "static/media/arrow.svg": "/webbuilder-internship-assignment/static/media/arrow.dfdaf992870dff2292a69a3fc7825a3b.svg",
-    "main.0ea38798.css.map": "/webbuilder-internship-assignment/static/css/main.0ea38798.css.map",
-    "main.16b1171b.js.map": "/webbuilder-internship-assignment/static/js/main.16b1171b.js.map"
+    "main.76721c32.css.map": "/webbuilder-internship-assignment/static/css/main.76721c32.css.map",
+    "main.22686a9d.js.map": "/webbuilder-internship-assignment/static/js/main.22686a9d.js.map"
   },
   "entrypoints": [
-    "static/css/main.0ea38798.css",
-    "static/js/main.16b1171b.js"
+    "static/css/main.76721c32.css",
+    "static/js/main.22686a9d.js"
   ]
 }
